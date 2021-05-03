@@ -50,7 +50,7 @@ School of Data Science, Fudan University, Shanghai, China
 - Conducted a deep neural network to detect 81 kinds of emotion using the idea of emotion wheel and rebuilt the training dataset to train the network.
 - Proposed the idea of forming a sentence with NLP techniques after recognizing the character’s face and  detecting the emotion by the model. 
 - Introduced the method of detecting the emotion from a video and summarizing the emotion changes.
-- 
+
 **Real-time sentiment analysis of tweets, Data-Intensive Distributed Analytic**, Mar. -Apr. 2021
 - Analyze user sentiments towards a number of products and companies using both historical and real time tweets through deep learning
 - Processed data streaming using Kafka, stored the messages and Elasticsearch, and then did the visualization in a Kibana dashboard.
