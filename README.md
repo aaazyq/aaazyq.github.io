@@ -20,15 +20,15 @@ y3593zha@uwaterloo.ca
 
 Co-operative Program, University of Waterloo, Waterloo, ON  	
 
-  GPA: 94.50                
+- GPA: 94.50                
 
-  Relevant courses: Intro to Artificial Intelligence; Intro to Machine Learning; Data-Intensive Distributed Analytic; Exploratory Data Analysis
+- Relevant courses: Intro to Artificial Intelligence; Intro to Machine Learning; Data-Intensive Distributed Analytic; Exploratory Data Analysis
 
 **Bachelor of Science in Physics and Data Science**	2016 - 2020
 
 School of Data Science, Fudan University, Shanghai, China  	
 
-  Relevant courses:  Neural Network and Deep Learning, Large Scale Distributed System, Data Mining,  Social Network Mining,  Artificial Intelligence,  Data Visualization
+- Relevant courses:  Neural Network and Deep Learning, Large Scale Distributed System, Data Mining,  Social Network Mining,  Artificial Intelligence,  Data Visualization
 
 ## WORK EXPERIENCE 
 **Algorithmic Intern**,  iQIYI, Inc, Department of Business Intelligence, Shanghai, China, Sep 2019 - May 2020
