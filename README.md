@@ -1,10 +1,10 @@
-# Yuqing Zhang
+# Yuqing Zhang ✨
 
 Master of Data Science and Artificial Intelligence, co-op 
 
 University of Waterloo 
 
-y3593zha@uwaterloo.ca
+Email: y3593zha@uwaterloo.ca
 
 
 ## SUMMARY OF QUALIFICATIONS
@@ -32,6 +32,7 @@ School of Data Science, Fudan University, Shanghai, China
 
 ## WORK EXPERIENCE 
 **Algorithmic Intern**,  iQIYI, Inc, Department of Business Intelligence, Shanghai, China, Sep 2019 - May 2020
+
 - Contributed to designing an actor-casting algorithm for films and TV series, using image information extraction and NLP techniques to process 12 character dimensions. 
 - Proposed the Acting Performance Evaluation metrics, helped build the data management system using database knowledge and tested the algorithm with the prediction result, which is put into use in the TV show 'Actor's Character'.
 - Predicted the popularity of original content series produced by iQIYI using machine learning and deep learning techniques to reduce the error to one sixth of the original.
