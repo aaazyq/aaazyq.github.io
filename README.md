@@ -1,6 +1,4 @@
-# Yuqing Zhang
-
-Master of Data Science and Artificial Intelligence, co-op | University of Waterloo | y3593zha@uwaterloo.ca
+Master of Data Science and Artificial Intelligence, co-op \| University of Waterloo \| y3593zha@uwaterloo.ca
 
 
 ## SUMMARY OF QUALIFICATIONS
