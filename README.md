@@ -1,3 +1,6 @@
+<img width="745" alt="beauty" src="https://user-images.githubusercontent.com/52529641/116953442-4126df00-ac5b-11eb-91fb-0979fe4e6b24.png">
+
+
 # Yuqing Zhang ✨
 
 Master of Data Science and Artificial Intelligence, co-op 
@@ -6,6 +9,7 @@ University of Waterloo
 
 Email: y3593zha@uwaterloo.ca
 
+Linkedin: https://www.linkedin.com/in/yuqing-zzzzhang/
 
 ## SUMMARY OF QUALIFICATIONS
 
@@ -46,33 +50,41 @@ School of Data Science, Fudan University, Shanghai, China
 - Established a machine learning prediction model from a 15 GB dataset with Python and R language, which was proposed to Country Garden Group Co. ltd to predict weekly material consumption. 
 
 ## PROJECT EXPERIENCE 
-**Detecting Emotion Based On Emotion Wheel Using Deep Learning Techniques**, Mar. – May. 2020
+see github: https://github.com/aaazyq
+
+[**Detecting Emotion Based On Emotion Wheel Using Deep Learning Techniques**](https://github.com/aaazyq/emotion-wheel-detection), Mar. – May. 2020
 - Conducted a deep neural network to detect 81 kinds of emotion using the idea of emotion wheel and rebuilt the training dataset to train the network.
 - Proposed the idea of forming a sentence with NLP techniques after recognizing the character’s face and  detecting the emotion by the model. 
 - Introduced the method of detecting the emotion from a video and summarizing the emotion changes.
 
-**Real-time sentiment analysis of tweets, Data-Intensive Distributed Analytic**, Mar. -Apr. 2021
+[**Real-time sentiment analysis of tweets, Data-Intensive Distributed Analytic**](https://github.com/aaazyq/cs631-project), Mar. -Apr. 2021
 - Analyze user sentiments towards a number of products and companies using both historical and real time tweets through deep learning
 - Processed data streaming using Kafka, stored the messages and Elasticsearch, and then did the visualization in a Kibana dashboard.
 
-**Kaggle: classifying e-commerce products**, Introduction to Machine Learning,  Dec. 2020
+[**Kaggle: classifying e-commerce products**](https://github.com/aaazyq/kaggle-Ecommerce_classification), Introduction to Machine Learning,  Dec. 2020
 - Implemented various machine learning techniques on the text, image and categorical data to do the classification and improved the model performance by stacking for second-stage training.
 - Got the prediction accuracy of 98.1% and became the top 3% among over 200 competitors.
 
-**Designing A Gomoku AI**,  Introduction to Artificial Intelligence, Sept. – Dec. 2020
+[**Designing A Gomoku AI**](https://github.com/aaazyq/Gomoku),  Introduction to Artificial Intelligence, Sept. – Dec. 2020
 - Designed a Gomoku AI which is competitive enough to beat most of the other agents on GomoCup website within a fixed time using Mini-Max search algorithm and alpha-beta pruning.
 - Created a heuristic function based on Threat Space Search to evaluate the status on the board.
 
-**Scene Text Detection**, Introduction to Machine Learning, Sept. – Dec. 2020
+[**Scene Text Detection**](https://github.com/aaazyq/scene-text-detection), Introduction to Machine Learning, Sept. – Dec. 2020
 - Surveyed the most state-of-art techniques in scene text detection in the deep learning era, compared the relative  strengths and limits of each approach.
-- Implemented the algorithm of Connectionist Text Proposal Network in the ICDAR Multi-lingual dataset. 
+- Implemented the algorithm of Connectionist Text Proposal Network in the ICDAR Multi-lingual dataset, see https://github.com/aaazyq/CTPN-Multi-lingual-Scene-Text-Detection-and-Recognition. 
 
-**A toolkit to detect and segment tumors in CT image**, Data Visualization, Jun. 2019
+[**A toolkit to detect and segment tumors in CT image**](https://github.com/aaazyq/detect-and-segment-tumors-in-CT-image), Data Visualization, Jun. 2019
 - Collaborated to establish a toolkit to detect tumors in CT image using Python, built graphical user interface and displayed the manual and auto segmentation results in both 2D and 3D, including functions of editing brightness, zooming out, showing tumor contour and so on.
 
-**A Location-based Social Networking recommendation system**, Social Network Mining, Jun. 2019 
+[**A Location-based Social Networking recommendation system**](https://github.com/aaazyq/Location-based-social-network), Social Network Mining, Jun. 2019 
 - Made community discovery and division with Gephi and visualized the trajectories of user's places of interest with Dash and Plotly.
 - Build a recommendation system using Foursquare Tokyo check-in dataset based on location, user interest, and spatio-temporal trajectory and made a User Interface using Python PyQt5.
+
+## COMPUTER SKILLS
+
+- Programming Languages: Proficient with Python and R; Familiar with SQL 
+- Data Science Knowledge: Pytorch, PySpark, Hadoop, Map-reduce framework, Kafka
+- Application Software: Tableau, Word, Excel, PowerPoint, Adobe Photoshop, Adobe Premiere
 
 ## ADDITIONAL EXPERIENCE
 
@@ -84,9 +96,3 @@ School of Data Science, Fudan University, Shanghai, China
 - Volunteered as a part-time journalist in the Chinese College Soccer League and acted as the soccer manager for university team, Spring 2017 
 - Volunteered in several grand music festivals in Shanghai, Spring2018
 - Volunteered in the international teaching program and taught children English in Indonesia, Feb 2018
-
-## COMPUTER SKILLS
-
-- Programming Languages: Proficient with Python and R; Familiar with SQL 
-- Data Science Knowledge: Pytorch, PySpark, Hadoop, Map-reduce framework, Kafka
-- Application Software: Tableau, Word, Excel, PowerPoint, Adobe Photoshop, Adobe Premiere
