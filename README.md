@@ -1,5 +1,3 @@
-<img width="745" alt="beauty" src="https://user-images.githubusercontent.com/52529641/116953442-4126df00-ac5b-11eb-91fb-0979fe4e6b24.png">
-
 
 # Yuqing Zhang ✨
 
@@ -10,6 +8,8 @@ University of Waterloo
 Email: y3593zha@uwaterloo.ca
 
 Linkedin: https://www.linkedin.com/in/yuqing-zzzzhang/
+
+<img width="745" alt="beauty" src="https://user-images.githubusercontent.com/52529641/116953442-4126df00-ac5b-11eb-91fb-0979fe4e6b24.png">
 
 ## SUMMARY OF QUALIFICATIONS
 
@@ -71,7 +71,7 @@ see github: https://github.com/aaazyq
 
 [**Scene Text Detection**](https://github.com/aaazyq/scene-text-detection), Introduction to Machine Learning, Sept. – Dec. 2020
 - Surveyed the most state-of-art techniques in scene text detection in the deep learning era, compared the relative  strengths and limits of each approach.
-- Implemented the algorithm of Connectionist Text Proposal Network in the ICDAR Multi-lingual dataset, see https://github.com/aaazyq/CTPN-Multi-lingual-Scene-Text-Detection-and-Recognition. 
+- Implemented the algorithm of Connectionist Text Proposal Network in the ICDAR Multi-lingual dataset, see [here] (https://github.com/aaazyq/CTPN-Multi-lingual-Scene-Text-Detection-and-Recognition). 
 
 [**A toolkit to detect and segment tumors in CT image**](https://github.com/aaazyq/detect-and-segment-tumors-in-CT-image), Data Visualization, Jun. 2019
 - Collaborated to establish a toolkit to detect tumors in CT image using Python, built graphical user interface and displayed the manual and auto segmentation results in both 2D and 3D, including functions of editing brightness, zooming out, showing tumor contour and so on.
